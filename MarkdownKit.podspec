@@ -13,10 +13,10 @@ all the Markdown elements.
   s.screenshots      = 'https://raw.githubusercontent.com/ivanbruel/MarkdownKit/master/Resources/MarkdownKitExample.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ivan Bruel' => 'ivan.bruel@gmail.com' }
-  s.source           = { :git => 'https://github.com/ivanbruel/MarkdownKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Grabble/MarkdownKit', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/ivanbruel'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'MarkdownKit/Classes/**/*'
   s.frameworks = 'UIKit'
